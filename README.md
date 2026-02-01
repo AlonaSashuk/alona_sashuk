@@ -9,12 +9,14 @@ How would you implement the search for elements of such a group?
 The main method which performs search of the siblings with same value implemented 
 in the method findSiblingElements() of script.js file which takes two required parameters as a coordinates of the initial cell - row and column.
 
-# Executing program
-1. Download all files from the repository (index.html, script.js and styles.css) in one folder. 
-2. Open index.html in any modern browser. 
-3. Click on any value in the grid table
-4. All siblings with same value will be highlited
-5. To change the grid size and values please open script.js in any IDE. Reffer to the bottom of the file with test example of the grid which looks like this.
+# Installing
+1. Download all files from the repository (index.html, script.js and styles.css) in one folder.
+
+# Executing program 
+1. Open index.html in any modern browser. 
+2. Click on any value in the grid table
+3. All siblings with same value will be highlited
+4. To change the grid size and values please open script.js in any IDE. Reffer to the bottom of the file with test example of the grid which looks like this.
 
 [
   [9, 7, 7, 4],
