@@ -16,7 +16,7 @@ in the method findSiblingElements() of script.js file which takes two required p
 ## Executing program 
 1. Open index.html in any modern browser. 
 2. Click on any cell in the grid table
-3. All siblings with same value will be highlited
+3. All siblings with same value will be highlighted
 4. To change the grid size and values please open script.js in any IDE. Reffer to the bottom of the file with test example of the grid which looks like this.
 
 [
