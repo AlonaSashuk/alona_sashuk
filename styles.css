@@ -1,0 +1,25 @@
+.field-table {
+  border: 3px solid #c13bab;
+  border-collapse: collapse;
+  font-size: 18px;
+  margin: 50px auto;
+}
+
+.field-table td {
+  border: 1px solid rgb(175, 234, 241);
+  height: 70px;
+  text-align: center;
+  width: 70px;
+}
+
+.field-table td:hover {
+  background-color: rgb(214, 248, 248);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.highlighted-cell,
+td.highlighted-cell:hover {
+  background-color: rgb(237, 227, 246);
+  transition: all 0.3s ease;
+}
